@@ -1,9 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**asmdl123/asmdl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## oss과제 페이지
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
