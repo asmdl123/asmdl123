@@ -13,6 +13,8 @@
 
 ## :pushpin:거주지
 ###### 인천 동구
+![999](https://github.com/asmdl123/asmdl123/assets/144200971/395fcbb7-fe65-4a81-8bef-c46c7a774102)
+
 
 ## :pushpin:취미
 #### :shoe:신발
