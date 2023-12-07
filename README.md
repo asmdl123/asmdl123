@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## :bookmark_tabs:oss과제 페이지:bookmark_tabs:
+## :bookmark_tabs:oss과제 페이지
 
 #### 저는 동양미래대학교 빅데이터경영과 1학년에 재학중인 이영수라고 합니다.
 
