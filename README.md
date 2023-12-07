@@ -23,6 +23,9 @@
 ![2024-bmw-m3-110-1674509061](https://github.com/asmdl123/asmdl123/assets/144200971/121138fe-6522-4294-a0c7-f60fb2c0fb0c)
 #### :computer:게임
 ![698](https://github.com/asmdl123/asmdl123/assets/144200971/5f1a44f0-7567-4068-8331-a538ca86a224)
+#### :soccer:축구
+![blues](https://github.com/asmdl123/asmdl123/assets/144200971/1ea08c5c-ac38-4eb3-a108-d919db2002e1)
+
 
 
 
@@ -34,8 +37,7 @@
 ###### 중국/러시아 2019/07
 ###### 베트남 2023/11
 
-## :pushpin:링크
-[![Instagram Badge](https://your-image-hosting-service.com/instagram-badge.png)](https://www.instagram.com/l_y_s0608/)
+## 
 
 
 
