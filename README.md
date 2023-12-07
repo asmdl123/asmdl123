@@ -22,7 +22,8 @@
 #### :red_car:자동차
 ![2024-bmw-m3-110-1674509061](https://github.com/asmdl123/asmdl123/assets/144200971/121138fe-6522-4294-a0c7-f60fb2c0fb0c)
 #### :computer:게임
-![2024-bmw-m3-110-1674509061](https://github.com/asmdl123/asmdl123/assets/144200971/90dd4827-a19a-4bb5-a817-aaed0a206941)
+![2024-bmw-m3-110-1674509061]![698](https://github.com/asmdl123/asmdl123/assets/144200971/abd90ee4-a056-4873-abbb-9204d9eec40c)
+
 
 ## :pushpin:다녀온 나라들
 ###### 싱가폴 2018/01
