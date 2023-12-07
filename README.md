@@ -35,7 +35,7 @@
 ###### 베트남 2023/11
 
 ## :pushpin:링크
-![image]:https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2Fl_y_s0608%2F%3Fhl%3Dko[Static Badge]
+[![Instagram Badge](https://your-image-hosting-service.com/instagram-badge.png)](https://www.instagram.com/l_y_s0608/)
 
 
 
