@@ -11,10 +11,20 @@
 ###### 2024년도 군대로 편입예정^^
 ![다운로드](https://github.com/asmdl123/asmdl123/assets/144200971/322973bd-a74d-40ab-93ea-75e40d9f1fd8)
 
+## 거주지
+###### 인천 동구
+
 ## 취미
 #### 신발
 ![11143788815s](https://github.com/asmdl123/asmdl123/assets/144200971/56567c6b-af49-4eb8-8cb9-d8e95a6828cc)
 #### 자동차
 ![2024-bmw-m3-110-1674509061](https://github.com/asmdl123/asmdl123/assets/144200971/121138fe-6522-4294-a0c7-f60fb2c0fb0c)
+#### 게임
+![2024-bmw-m3-110-1674509061](https://github.com/asmdl123/asmdl123/assets/144200971/90dd4827-a19a-4bb5-a817-aaed0a206941)
+
+## 다녀온 나라들
+######
+
+
 
 
